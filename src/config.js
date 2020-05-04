@@ -1,0 +1,5 @@
+export const access_token= "BQCD34ZIw0A8B6WylJ8r2gAc2Zca_X35ugWR1-qPMuuU33g9BmTJjv_PHru9rjQcQEQHNCxF-2SJ0KFwfqiM2QkqQywf8zAlaoF79gA0OSi6R7Ge5j4HmRD7TC_C1N3VRUm43bozoWaMA8wm7fFySw-OmzPmrLavgw"
+export const token_type = "Bearer"
+export const expires_in = 3600
+export const refresh_token = "AQDrF79osbgDZqGQe641noR33KB47SSF-S-kegnGajMAklMHSnHXZwsMSiE0ksyPNg4rnb5p4_9f2xB8XSFGrcMURnUtyQarmeEuoRCl1GREE-sXJMkCs6_ooIP_1eExKHY"
+export const scope = ""
